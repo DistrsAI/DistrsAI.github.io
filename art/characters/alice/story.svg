@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480">
+  <rect width="360" height="480" fill="#110d1a"/>
+  <circle cx="70" cy="80" r="40" fill="#e58cff" opacity="0.18"/>
+  <circle cx="300" cy="420" r="70" fill="#9b5de5" opacity="0.16"/>
+  <rect x="118" y="250" width="124" height="150" rx="48" fill="#9b5de5"/>
+  <path d="M126 160c-8 70 4 120 18 150h72c14-30 26-80 18-150" fill="#7a4633"/>
+  <ellipse cx="180" cy="168" rx="46" ry="54" fill="#7a4633"/>
+  <ellipse cx="180" cy="176" rx="32" ry="38" fill="#efd3c2"/>
+  <text x="180" y="440" text-anchor="middle" fill="#f5effb" font-family="Georgia, serif" font-size="22">Кафе</text>
+</svg>

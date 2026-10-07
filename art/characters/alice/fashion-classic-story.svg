@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 480">
+  <rect width="360" height="480" fill="#110d1a"/>
+  <rect x="70" y="90" width="220" height="260" rx="28" fill="#d7c4b2"/>
+  <rect x="108" y="140" width="144" height="160" rx="18" fill="#110d1a" opacity="0.25"/>
+  <text x="180" y="420" text-anchor="middle" fill="#f5effb" font-family="Georgia, serif" font-size="22">Классика</text>
+</svg>
