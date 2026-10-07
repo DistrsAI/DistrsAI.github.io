@@ -1,1 +1,1 @@
-https://part-requiring-interactions-frank.trycloudflare.com
+https://after-hours-api.vercel.app
